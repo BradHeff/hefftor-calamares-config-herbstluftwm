@@ -62,12 +62,12 @@ windowSize: 1100px,650px
 # are set to "true" (they can also be overridden).
 strings:
     productName:         "@{NAME}"
-    shortProductName:    ArcoLinux
+    shortProductName:    Hefftor Edition
     version:             2.0
     shortVersion:        2.0
-    versionedName:       ArcoLinux
-    shortVersionedName:  ArcoLinux
-    bootloaderEntryName: ArcoLinux
+    versionedName:       Hefftor Edition
+    shortVersionedName:  Hefftor Edition
+    bootloaderEntryName: HefftorLinux
 #    productUrl:          https://ArcoLinux.info/
 #    supportUrl:          https://ArcoLinuxforum.com/
 #    knownIssuesUrl:      https://ArcoLinux.info/
